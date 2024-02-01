@@ -1,4 +1,8 @@
 🌍CCTV,#genre#
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV1,http://222.71.90.218:8888/newlive/live/hls/2/live.m3u8
+CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+CCTV1,http://59.47.226.94:8880/sql/2592/hls.m3u8
 CCTV1,http://tvphp1.rbq.plus/migu.php?id=cctv1
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
@@ -32,6 +36,11 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,http://59.47.226.94:8880/sql/2593/hls.m3u8
+CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
+CCTV2,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV2,http://tvphp1.rbq.plus/migu.php?id=cctv2
 CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
 CCTV2,http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
@@ -60,6 +69,9 @@ CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
+CCTV3,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
+CCTV3,http://59.47.226.94:8880/sql/2594/hls.m3u8
 CCTV3,http://tvphp1.rbq.plus/migu.php?id=cctv3
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
@@ -86,6 +98,10 @@ CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV4,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
+CCTV4,http://59.47.226.94:8880/sql/2595/hls.m3u8
 CCTV4,http://tvphp1.rbq.plus/migu.php?id=cctv4
 CCTV4,http://219.140.56.34:3333/tsfile/live/1004_1.m3u8
 CCTV4,http://111.20.35.103:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
@@ -109,6 +125,12 @@ CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5,http://222.71.90.218:8888/newlive/live/hls/6/live.m3u8
+CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5,http:/CCTV5,http://59.47.226.94:8880/sql/2596/hls.m3u8
+CCTV5,http://1.11.195.111.251:11190/tsfile/live/0005_1.m3u8
+CCTV5,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
 CCTV5,http://tvphp1.rbq.plus/migu.php?id=cctv5
 CCTV5,http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8
@@ -134,6 +156,9 @@ CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV5,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
 CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
@@ -160,6 +185,11 @@ CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
+CCTV6,http://59.47.226.94:8880/sql/2597/hls.m3u8
+CCTV6,http://222.71.90.218:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV6,http://tvphp1.rbq.plus/migu.php?id=cctv6
 CCTV6,http://39.134.65.181/PLTV/88888888/224/3221225814/index.m3u8
 CCTV6,http://39.134.65.173/PLTV/88888888/224/3221225814/index.m3u8
@@ -185,6 +215,9 @@ CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
+CCTV7,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
 CCTV7,http://tvphp1.rbq.plus/migu.php?id=cctv7
 CCTV7,http://39.134.65.179/PLTV/88888888/224/3221225671/index.m3u8
 CCTV7,http://39.134.65.164/PLTV/88888888/224/3221225671/index.m3u8
@@ -210,6 +243,13 @@ CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
 CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+CCTV8,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
+CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV8,http://59.47.226.94:8880/sql/2599/hls.m3u8
 CCTV8,http://tvphp1.rbq.plus/migu.php?id=cctv8
 CCTV8,http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8,http://39.134.65.173/PLTV/88888888/224/3221225795/index.m3u8
@@ -235,6 +275,12 @@ CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
 CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9,http://59.47.226.94:8880/sql/2600/hls.m3u8
+CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
+CCTV9,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://59.47.226.94:8880/sql/2600/hls.m3u8
 CCTV9,http://tvphp1.rbq.plus/migu.php?id=cctv9
 CCTV9,http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
@@ -262,6 +308,11 @@ CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
 CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
+CCTV10,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
+CCTV10,http://59.47.226.94:8880/sql/2601/hls.m3u8
+CCTV10,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
 CCTV10,http://tvphp1.rbq.plus/migu.php?id=cctv10
 CCTV10,http://39.134.65.179/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,http://39.134.65.164/PLTV/88888888/224/3221225677/index.m3u8
@@ -310,6 +361,9 @@ CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
 CCTV11,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12,http://59.47.226.94:8880/sql/2603/hls.m3u8
+CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
+CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
 CCTV12,http://tvphp1.rbq.plus/migu.php?id=cctv12
 CCTV12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://39.134.65.179/PLTV/88888888/224/3221225669/index.m3u8
@@ -335,9 +389,12 @@ CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
 CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HDCCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV12,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
+CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV13,http://59.47.226.94:8880/sql/2604/hls.m3u8CCTV13,http://tvphp1.rbq.plus/migu.php?id=cctv13
 CCTV13,http://39.134.67.99/PLTV/88888888/224/3221225812/index.m3u8
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
@@ -364,6 +421,10 @@ CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
 CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
+CCTV14,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
+CCTV14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
 CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://39.134.65.179/PLTV/88888888/224/3221225674/index.m3u8
@@ -388,6 +449,10 @@ CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
 CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+CCTV15,http://59.47.226.94:8880/sql/2606/hls.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
 CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
@@ -404,6 +469,7 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV15,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16,http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
 CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
@@ -421,6 +487,7 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
@@ -451,6 +518,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://58.19.13.92:9901/tsfile/live/1021_1.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/index.m3u8
 北京卫视,http://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8
 北京卫视,http://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8
@@ -532,6 +600,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 河南卫视,http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://221.214.140.137:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://58.19.13.92:9901/tsfile/live/1026_1.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江卫视,http://218.241.192.50:8808/udp/239.3.1.133:8016
 黑龙江卫视,http://221.214.140.137:9901/tsfile/live/0143_1.m3u8
@@ -576,6 +645,7 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 四川卫视,http://221.214.140.137:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 重庆卫视,http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 江苏卫视,http://39.134.66.110/PLTV/88888888/224/3221225938/index.m3u8
 江苏卫视,http://tvphp1.rbq.plus/migu.php?id=jsws
 江苏卫视,http://39.134.65.181/PLTV/88888888/224/3221225503/index.m3u8
@@ -2982,8 +3052,9 @@ CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 4k👉修复全网,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 动物星球全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-
-
+🌍测试,#genre#
+斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
 
 
