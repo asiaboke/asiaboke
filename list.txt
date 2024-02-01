@@ -1,4 +1,4 @@
-CCTV,#genre#
+🌍CCTV,#genre#
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
@@ -101,9 +101,12 @@ CCTV14,http://tvphp1.rbq.plus/migu.php?id=cctv14
 CCTV15,http://tvphp1.rbq.plus/migu.php?id=cctv15
 CCTV17,http://tvphp1.rbq.plus/migu.php?id=cctv17
 CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
-卫视,#genre#
+
+🌍卫视,#genre#
 安徽卫视,http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
 北京卫视,http://39.134.66.110/PLTV/88888888/224/3221225931/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+北京卫视,http://58.19.13.92:9901/tsfile/live/1017_1.m3u8
 东方卫视,http://39.134.66.110/PLTV/88888888/224/3221225942/index.m3u8
 东南卫视,http://39.134.66.110/PLTV/88888888/224/3221225950/index.m3u8
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
@@ -117,6 +120,8 @@ CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 江苏卫视,http://39.134.66.110/PLTV/88888888/224/3221225938/index.m3u8
 江西卫视,http://39.134.66.110/PLTV/88888888/224/3221225935/index.m3u8
 山东卫视,http://39.134.66.110/PLTV/88888888/224/3221225952/index.m3u8
+山东卫视,http://58.19.13.92:9901/tsfile/live/1025_1.m3u8
+山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
 四川卫视,http://39.134.66.110/PLTV/88888888/224/3221225970/index.m3u8
 天津卫视,http://39.134.66.110/PLTV/88888888/224/3221225972/index.m3u8
@@ -154,7 +159,9 @@ CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 湖南卫视,http://tvphp1.rbq.plus/migu.php?id=hunws
 吉林卫视,http://tvphp1.rbq.plus/migu.php?id=jlws
 江苏卫视,http://tvphp1.rbq.plus/migu.php?id=jsws
-斗鱼,#genre#
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+
+🌍斗鱼,#genre#
 斗鱼电影4K,https://ygbh--xingkongbujian.repl.co/douyu/9249162
 斗鱼电影HD1,https://ygbh--xingkongbujian.repl.co/douyu/4246519
 斗鱼电影HD2,https://ygbh--xingkongbujian.repl.co/douyu/10240553
@@ -450,7 +457,8 @@ CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 斗鱼旅行16,https://ygbh--xingkongbujian.repl.co/douyu/9172774
 斗鱼旅行17,https://ygbh--xingkongbujian.repl.co/douyu/4834417
 斗鱼旅行18,https://ygbh--xingkongbujian.repl.co/douyu/2240445
-虎牙,#genre#
+
+🌍虎牙,#genre#
 周星星,http://43.138.170.29:35455/huya/24470631
 猫和老鼠,http://43.138.170.29:35455/huya/11352879
 中华小当家,http://43.138.170.29:35455/huya/11342413
@@ -556,7 +564,8 @@ CCTV5+,http://tvphp1.rbq.plus/migu.php?id=cctv5p
 武林外传,https://ygbh--xingkongbujian.repl.co/huya/21059598
 地下交通站,https://ygbh--xingkongbujian.repl.co/huya/11342433
 邻里一家亲,https://ygbh--xingkongbujian.repl.co/huya/11342426
-肥羊,#genre#
+
+🌍肥羊,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
@@ -593,7 +602,8 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-BESTV,#genre#
+
+🌍BESTV,#genre#
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
@@ -687,7 +697,8 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 金色学堂,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-精品,#genre#
+
+🌍精品,#genre#
 求索纪录,http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
 黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
 黑莓动画,http://39.134.66.110/PLTV/88888888/224/3221225529/index.m3u8
@@ -717,7 +728,22 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 中国功夫,http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-NewTV,#genre#
+
+🌍NewTV,#genre#
+NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV武搏世界,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1556325430_664703954/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+NewTV炫舞未来,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw519702850_-1512208436/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8?icpid=3&RTS=1674380635&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV金牌综艺,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2614190807_1624483481/ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8?icpid=3&RTS=1674387024&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
@@ -815,7 +841,8 @@ CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m
 北京冬奥,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 央视台球,http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-地方,#genre#
+
+🌍地方,#genre#
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
@@ -842,7 +869,8 @@ CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-世界,#genre#
+
+🌍世界,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 无线新闻台,http://r.jdshipin.com/CkuBd
 莲花卫视,http://www.238311.cn:555/lotustv.php
