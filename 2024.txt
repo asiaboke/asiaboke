@@ -3693,7 +3693,6 @@ NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 星光视界1台,http:/
 /47.109.155.164/小曾/yy.php?id=1353422557
 星光视界1台,http://47.109.155.164/小曾/yy.php?id=1353422557
-斗鱼,#genre#
 斗鱼电影4K,http://43.138.170.29:35455/douyu/9249162
 斗鱼电影HD1,http://43.138.170.29:35455/douyu/4246519
 斗鱼电影HD2,http://43.138.170.29:35455/douyu/10240553
