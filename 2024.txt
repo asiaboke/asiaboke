@@ -3342,33 +3342,7 @@ CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m
 北京冬奥,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 央视台球,http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-地方,#genre#
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
-吉林乡村,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教育台,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江留学,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-浙江龙泉,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江松阳,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-浙江休闲台,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
 
 ❤️｜电影频道｜万达在线,#genre#
 
