@@ -3572,12 +3572,14 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 
 
 🌏全球频道👉全网,#genre#
+凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8 
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8 
 凤凰卫视,http://113.117.74.107:8081/hls/37/index.m3u8 
 凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83 
 凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068 
 凤凰资讯,http://121.238.176.72:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8 
 凤凰资讯,http://113.117.74.99:8081/hls/36/index.m3u8 
 凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407 
