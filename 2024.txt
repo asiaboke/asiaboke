@@ -4910,17 +4910,22 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 
 
 🎬国内影院👉全网,#genre#
-绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
 南宁影院频道,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 万州影院文艺,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 万州影院文艺,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 新泰影院频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影院频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 河北频道影院,http://121.29.111.35:8888/udp/239.253.2.20:8100
-
+上海影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
 🌈 少儿影院👉全网,#genre#
 卡酷IPV6,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
 嘉佳IPV6,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225681/1.m3u8
