@@ -3669,8 +3669,12 @@ CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 HBO频道,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 HBO频道,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8$高清1080P
+HBO,http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 HBO,http://208.115.225.174:14136
 HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
+HBO2,http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 HBO2,http://208.115.225.174:14140
 HBOFamily,http://208.115.225.174:14144
 HBOFamily,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
