@@ -22661,76 +22661,12 @@ BOGA BOGA-すみれ美香,https://v1s.cdn2020.com/video/m3u8/2019/07/28/76750c0c
 
 
 🔒会员㊙️3_8585,#genre#
-japan-キッズステーション,vjms://14.102.154.165:8500:3502/live/cid=494&delay=200&httpbuf=200&memory=50
-japan-ディスカバリーチャンネル,vjms://14.102.154.165:8500:3502/live/cid=496&delay=200&httpbuf=200&memory=50
-japan-ヒストリーチャンネル,vjms://14.102.154.165:8500:3502/live/cid=219&delay=200&httpbuf=200&memory=50
-japan-ＴＢＳニュースバード,vjms://14.102.154.165:8500:3502/live/cid=220&delay=200&httpbuf=200&memory=50
-japan-A sports＋,vjms://14.102.154.165:8500:3502/live/cid=210&delay=200&httpbuf=200&memory=50
-japan-Music Japan TV,vjms://14.102.154.165:8500:3502/live/cid=495&delay=200&httpbuf=200&memory=50
-japan-衛星劇場,vjms://14.102.154.165:8500:3502/live/cid=208&delay=200&httpbuf=200&memory=50
-japan-時代劇専門チャンネル,vjms://14.102.154.165:8500:3502/live/cid=213&delay=200&httpbuf=200&memory=50
-japan-KBS world,vjms://14.102.154.165:8500:3502/live/cid=216&delay=200&httpbuf=200&memory=50
-japan-ディズニーチャンネル,vjms://14.102.154.165:8500:3502/live/cid=499&delay=200&httpbuf=200&memory=50
-japan-テレ朝Ch1,vjms://14.102.154.165:8500:3502/live/cid=223&delay=200&httpbuf=200&memory=50
-japan-テレ朝Ch2,vjms://14.102.154.165:8500:3502/live/cid=217&delay=200&httpbuf=200&memory=50
-japan-フジTV ONE,vjms://14.102.154.165:8500:3502/live/cid=212&delay=200&httpbuf=200&memory=50
-japan-日テレG+,vjms://14.102.154.165:8500:3502/live/cid=207&delay=200&httpbuf=200&memory=50
-japan-MoviePlus,vjms://14.102.154.165:8500:3502/live/cid=497&delay=200&httpbuf=200&memory=50
-japan-TBSCh1,vjms://14.102.154.165:8500:3502/live/cid=221&delay=200&httpbuf=200&memory=50
-japan-日テレプラス,vjms://14.102.154.165:8500:3502/live/cid=492&delay=200&httpbuf=200&memory=50
-japan-NHK G,vjms://14.102.154.165:8500:3502/live/cid=309&delay=200&httpbuf=200&memory=50
-japan-NHK Eテレ,vjms://14.102.154.165:8500:3502/live/cid=310&delay=200&httpbuf=200&memory=50
-japan-日本テレビ,vjms://14.102.154.165:8500:3502/live/cid=312&delay=200&httpbuf=200&memory=50
-japan-テレビ朝日,vjms://14.102.154.165:8500:3502/live/cid=313&delay=200&httpbuf=200&memory=50
-japan-TBSテレビ,vjms://14.102.154.165:8500:3502/live/cid=314&delay=200&httpbuf=200&memory=50
-japan-テレビ东京,vjms://14.102.154.165:8500:3502/live/cid=315&delay=200&httpbuf=200&memory=50
-japan-TOKYO MX,vjms://14.102.154.165:8500:3502/live/cid=311&delay=200&httpbuf=200&memory=50
-japan-フジテレビジョン,vjms://14.102.154.165:8500:3502/live/cid=316&delay=200&httpbuf=200&memory=50
-japan-NHK綜合大阪,vjms://14.102.154.165:8500:3502/live/cid=317&delay=200&httpbuf=200&memory=50
-japan-NHKE大阪,vjms://14.102.154.165:8500:3502/live/cid=318&delay=200&httpbuf=200&memory=50
-japan-毎日放送,vjms://14.102.154.165:8500:3502/live/cid=319&delay=200&httpbuf=200&memory=50
-japan-サンテレビ,vjms://14.102.154.165:8500:3502/live/cid=320&delay=200&httpbuf=200&memory=50
-japan-朝日放送,vjms://14.102.154.165:8500:3502/live/cid=321&delay=200&httpbuf=200&memory=50
-japan-テレビ大阪,vjms://14.102.154.165:8500:3502/live/cid=322&delay=200&httpbuf=200&memory=50
-japan-関西テレビ,vjms://14.102.154.165:8500:3502/live/cid=323&delay=200&httpbuf=200&memory=50
-japan-読売テレビ,vjms://14.102.154.165:8500:3502/live/cid=324&delay=200&httpbuf=200&memory=50
-japan-BS1,vjms://14.102.154.165:8500:3502/live/cid=301&delay=200&httpbuf=200&memory=50
-japan-BS朝日,vjms://14.102.154.165:8500:3502/live/cid=308&delay=200&httpbuf=200&memory=50
-japan-BSフジ,vjms://14.102.154.165:8500:3502/live/cid=307&delay=200&httpbuf=200&memory=50
-japan-BSジャパン,vjms://14.102.154.165:8500:3502/live/cid=306&delay=200&httpbuf=200&memory=50
-japan-BSTBS,vjms://14.102.154.165:8500:3502/live/cid=305&delay=200&httpbuf=200&memory=50
-japan-BS日テレ,vjms://14.102.154.165:8500:3502/live/cid=304&delay=200&httpbuf=200&memory=50
-japan-BSプレミアム,vjms://14.102.154.165:8500:3502/live/cid=303&delay=200&httpbuf=200&memory=50
-japan-BS12,vjms://14.102.154.165:8500:3502/live/cid=302&delay=200&httpbuf=200&memory=50
-japan-WOWOWプライム,vjms://14.102.154.165:8500:3502/live/cid=325&delay=200&httpbuf=200&memory=50
-japan-WOWOWライブ,vjms://14.102.154.165:8500:3502/live/cid=205&delay=200&httpbuf=200&memory=50
-japan-WOWOWシネマ,vjms://14.102.154.165:8500:3502/live/cid=224&delay=200&httpbuf=200&memory=50
-japan-スターチャンネル1,vjms://14.102.154.165:8500:3502/live/cid=326&delay=200&httpbuf=200&memory=50
-japan-スターチャンネル2,vjms://14.102.154.165:8500:3502/live/cid=191&delay=200&httpbuf=200&memory=50
-japan-スターチャンネル3,vjms://14.102.154.165:8500:3502/live/cid=193&delay=200&httpbuf=200&memory=50
-japan-BSスカバー！,vjms://14.102.154.165:8500:3502/live/cid=58&delay=200&httpbuf=200&memory=50
-japan-BSアニマックス,vjms://14.102.154.165:8500:3502/live/cid=498&delay=200&httpbuf=200&memory=50
-japan-J sports1,vjms://14.102.154.165:8500:3502/live/cid=415&delay=200&httpbuf=200&memory=50
-japan-J sports2,vjms://14.102.154.165:8500:3502/live/cid=416&delay=200&httpbuf=200&memory=50
-japan-J sports3,vjms://14.102.154.165:8500:3502/live/cid=410&delay=200&httpbuf=200&memory=50
-J sports4,vjms://14.102.154.165:8500:3502/live/cid=411&delay=200&httpbuf=200&memory=50
-japan-Cinefil WOWOW,vjms://14.102.154.165:8500:3502/live/cid=209&delay=200&httpbuf=200&memory=50
-japan-Green,vjms://14.102.154.165:8500:3502/live/cid=412&delay=200&httpbuf=200&memory=50
-japan-GOLF,vjms://14.102.154.165:8500:3502/live/cid=409&delay=200&httpbuf=200&memory=50
-japan-EXsports,vjms://14.102.154.165:8500:3502/live/cid=414&delay=200&httpbuf=200&memory=50
-japan-FightingTV,vjms://14.102.154.165:8500:3502/live/cid=408&delay=200&httpbuf=200&memory=50
-japan-釣魚,vjms://14.102.154.165:8500:3502/live/cid=55&delay=200&httpbuf=200&memory=50
-japan-FOXsports,vjms://14.102.154.165:8500:3502/live/cid=57&delay=200&httpbuf=200&memory=50
-japan-GAORA,vjms://14.102.154.165:8500:3502/live/cid=413&delay=200&httpbuf=200&memory=50
-japan-ファミリー劇場,vjms://14.102.154.165:8500:3502/live/cid=493&delay=200&httpbuf=200&memory=50
-
-🔒会员㊙️4_8585,#genre#
 carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
 carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
 carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
 
-🔒会员㊙️5_8585,#genre#
+🔒会员㊙️4_8585,#genre#
 C0930-PLA0101 人妻斬り 木並 則子 55歳,https://vip1.slbfsl.com/20221027/KKuVthfN/index.m3u8
 C0930-PLA0101 人妻斬り 木並 則子 55歳,https://askzybf.com/20221125/1aLGQbSU/index.m3u8
 C0930-PLA0101 人妻斬り 木並 則子 55歳,https://vod3.ttbfp5.com/20230329/F1wnYmsJ/index.m3u8
