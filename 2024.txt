@@ -2455,7 +2455,7 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 孝感公共,http://live.yingxi.tv/channel1/sd/live.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-
+湖北崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 
 ❤️华中👉湖南,#genre#
 湖南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8 
