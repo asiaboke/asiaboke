@@ -2438,64 +2438,21 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 湖北｜经视,http://58.53.154.26:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北｜经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北｜经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU  
-湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-湖北｜十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-湖北｜宜昌综合,https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
-湖北｜三峡旅游,https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
-湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-湖北｜江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-湖北｜麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-湖北｜武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-湖北｜武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-湖北｜武汉电视,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-湖北｜武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北｜武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-湖北｜武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
-湖北｜武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-湖北｜武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-湖北｜荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-湖北｜郧阳新闻,http://58.19.198.159:2021/hls1.m3u8
-湖北｜十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&tpid=868100086
-湖北｜十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&tpid=1550600621
-湖北｜江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
-湖北｜武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8 
-湖北｜武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8 
-湖北｜荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd 
-湖北｜崇阳综合,http://61.184.176.248:10500/live/live.m3u8 
-湖北｜当阳,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8 
-湖北｜红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec 
-湖北｜谷城,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1704038399-0-0-9b04df5d845d5e76347ce466fdcd2032 
-湖北｜鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87 
-湖北｜鄂州新闻,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0 
-湖北｜鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1704038399-0-0-73faaff5056f4c2f3eaa37886ba5a32d 
-湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8 
-湖北｜武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
-湖北｜武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8 
-湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8 
-湖北｜荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8 
-湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-湖北｜十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-湖北｜宜昌综合,https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
-湖北｜三峡旅游,https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
-湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-湖北｜江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-湖北｜麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-湖北｜武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-湖北｜武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-湖北｜武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北｜武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-湖北｜十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&tpid=868100086
-湖北｜十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&tpid=1550600621
-湖北｜江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+宜昌综合,http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
+宜昌旅游生活,http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+孝感公共,http://live.yingxi.tv/channel1/sd/live.m3u8
+麻城综合,http://119.36.30.199:8888/mctv1.m3u8
+
 
 ❤️华中👉湖南,#genre#
 湖南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8 
