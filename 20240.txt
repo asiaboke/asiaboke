@@ -406,7 +406,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 青海频道,http://stream.qhbtv.com/qhws/sd/live.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
-
+新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 ❤️卫视频道👉电信,#genre#
 CGTN台,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575001.m3u8
 CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574701.m3u8
