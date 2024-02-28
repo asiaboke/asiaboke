@@ -1074,6 +1074,10 @@ CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574701.m3u8
 广东｜嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500 
 广东｜国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj 
 广东｜大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws 
+广东｜大湾区卫视,http://183.238.248.83:9000/udp/239.21.0.84:3676
+广东｜大湾区卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1191
+广东｜大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+广东｜大湾区卫视,http://ci.emdoor.tech:8080/touchtv.php?pk=1197
 广东｜工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd 
 广东｜广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh 
 广东｜广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo 
