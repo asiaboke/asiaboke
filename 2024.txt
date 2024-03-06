@@ -5655,37 +5655,6 @@ CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380760
 贝爷max✔原,http://159.75.85.63:35455/douyu/4332
 贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
 
-🎬YYY频道👉全网,#genre#
-YY电影台01,http://mmitv.top/pltv/yy.php?id=1382749892
-YY电影台02,http://mmitv.top/pltv/yy.php?id=1382735573
-YY电影台03,http://mmitv.top/pltv/yy.php?id=24921161
-YY电影台04,http://mmitv.top/pltv/yy.php?id=1382736803
-YY电影台05,http://mmitv.top/pltv/yy.php?id=1354930924
-YY电影台06,http://mmitv.top/pltv/yy.php?id=1382745095
-YY电影台07,http://mmitv.top/pltv/yy.php?id=1355171357
-YY电影台08,http://mmitv.top/pltv/yy.php?id=24066336
-YY电影台09,http://mmitv.top/pltv/yy.php?id=1354143966
-YY李连杰台,http://mmitv.top/pltv/yy.php?id=1459869766
-YY成龍影院,http://mmitv.top/pltv/yy.php?id=1354888751
-YY林正英频,http://mmitv.top/pltv/yy.php?id=1351505899
-YY林正英道,http://mmitv.top/pltv/yy.php?id=1353685311
-YY電影輪播,http://mmitv.top/pltv/yy.php?id=1353059120
-YY歐美電影,http://mmitv.top/pltv/yy.php?id=24923327
-YY歐美科幻,http://mmitv.top/pltv/yy.php?id=37988782
-YY歐美動作,http://mmitv.top/pltv/yy.php?id=1382745089
-YY連續劇台,http://mmitv.top/pltv/yy.php?id=1352227227
-YY剧场频道,http://mmitv.top/pltv/yy.php?id=1382702247
-YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
-
-菲菲影院,http://mmitv.top/pltv/yy.php?id=1456668939&uid=2718850416
-幸福影院,http://mmitv.top/pltv/yy.php?id=1382737886&uid=2786225520
-经典港片,http://mmitv.top/pltv/yy.php?id=1382800018&uid=2874641994
-经典鬼片,http://mmitv.top/pltv/yy.php?id=29460894&uid=1647770566
-米娜影院,http://mmitv.top/pltv/yy.php?id=1382690078&uid=2358387041
-豪哥影院,http://mmitv.top/pltv/yy.php?id=23402146&uid=2456925852
-绝版电影,http://mmitv.top/pltv/yy.php?id=1454587259&uid=67381238
-港片电影,http://mmitv.top/pltv/yy.php?id=1355479289&uid=60563267
-泡芙影院,http://mmitv.top/pltv/yy.php?id=24407222&uid=2241532024
 
 🎬斗鱼轮播👉全网,#genre#
 鬼片恐怖,http://43.138.170.29:35455/douyu/2935323
