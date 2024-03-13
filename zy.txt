@@ -510,34 +510,8 @@ CETV1,http://111.172.9.45:8887/rtp/239.69.1.110:10298
 星空卫视,http://113.64.145.157:8081/hls/87/index.m3u8
 星空卫视,http://113.64.145.195:8081/hls/87/index.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
-HBO,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO,https://s.vdo.ai/vhs/1.m3u8
-HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-HBO,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-HBO,https://epg.pw/stream/1dca6fe7bd392fd38664679fee2bdd491ad508122325da8c45c090f4591b5924.m3u8
-HBO2,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-HBO2,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-HBO2,http://170.254.18.106/HBO2/index.m3u8
 HBO2,https://s.vdo.ai/vhs/1.m3u8
-HBO3,http://stream.nmih.hu:7960/live.m3u8
-HBO3,https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
-HBO3,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-HBO3,https://s.vdo.ai/vhs/1.m3u8
-HBO3,http://51.254.199.122:8080/bossbrothersTV/index.m3u8
-HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBOAsia,http://218.202.220.2:5000/nn_live.ts?id=HBO&checkedby:iptvcat.com
-HBO強檔,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-HBO家庭,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-HBO FAMILY,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-HBO FAMILY,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBO PREMIUM,https://s.vdo.ai/vhs/1.m3u8
 HBO PREMIUM,http://62.210.209.138:41000/movie/v52/v43/6870.mp4
-HBO PREMIUM,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-HBO PREMIUM,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 HBO Plus SD,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 🎯少儿频道,#genre#
 广东少儿,http://113.64.145.195:8081/hls/32/index.m3u8
