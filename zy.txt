@@ -513,6 +513,17 @@ HBO,http://41.205.93.154/HBO/index.m3u8
 HBO2,https://s.vdo.ai/vhs/1.m3u8
 HBO PREMIUM,http://62.210.209.138:41000/movie/v52/v43/6870.mp4
 HBO Plus SD,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+HBO(越南),http://113.160.152.31:5050/udp/232.84.2.138:10648
+RED BY HBO,http://113.160.152.31:5050/udp/232.84.3.103:10840
+RED BY HBO,http://113.160.152.31:5050/udp/232.84.2.172:10840
+HBO Hits(第2声道原声),http://67.211.73.118:9901http://iptv.tvfix.org/hls/hbohits2.m3u8
+HBO Hits(第1声道粤语),http://67.211.73.118:9901http://iptv.tvfix.org/hls/hbohits.m3u8
+HBO(第1声道粤语),http://67.211.73.118:9901http://iptv.tvfix.org/hls/hbo.m3u8
+翡翠台(第1声道繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk2.m3u8
+美亚电影台(粤语),http://67.211.73.118:9901http://iptv.tvfix.org/hls/mydy.m3u8
 🎯少儿频道,#genre#
 广东少儿,http://113.64.145.195:8081/hls/32/index.m3u8
 卡酷少儿,http://27.19.159.183:4022/rtp/239.69.1.193:10800
