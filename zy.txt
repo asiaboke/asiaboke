@@ -1,3 +1,45 @@
+🎯港台测试,#genre#
+凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,http://113.117.74.28:8081/hls/38/index.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰卫视资讯台,http://120.41.125.248:8888/rtp/239.61.2.183:9086
+凤凰卫视中文台,http://120.41.125.248:8888/rtp/239.61.2.184:9092
+明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://nas.jdshipin.com:8801/gudoumz.php
+明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
+明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+TVB翡翠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB翡翠台,http://r.jdshipin.com/qClQf
+TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+TVB翡翠台,http://r.jdshipin.com/n90gt
+TVB翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+TVB翡翠台,https://hs.178816.online/live/fct/index.m3u8
+TVB翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.flv
+TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=ICdnbP1fWe
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+TVBS欢乐台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+TVBS欢乐台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+TVBS欢乐台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS欢乐台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVBS星河台,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
+TVBS星河台,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+TVBS星河台,http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+本港台,http://113.64.145.94:8081/hls/135/index.m3u8
+本港台,http://183.1.251.200:8081/hls/135/index.m3u8
+本港台,http://171.109.225.113:8181/tsfile/live/1068_1.m3u8
+本港台,http://180.137.26.73:8181/tsfile/live/1070_1.m3u8
 🎯央视频道,#genre#
 CCTV-1,http://117.82.48.20:58888/rtp/239.49.8.129:6000
 CCTV-1,http://117.82.48.20:58888/rtp/239.49.1.1:6000
@@ -318,11 +360,13 @@ CETV1,http://111.172.9.45:8887/rtp/239.69.1.110:10298
 甘肃卫视,http://113.64.145.157:8081/hls/101/index.m3u8
 甘肃卫视,http://113.64.145.195:8081/hls/101/index.m3u8
 三沙卫视,http://220.249.114.102:9901/tsfile/live/1017_1.m3u8
+三沙卫视,http://120.41.125.248:8888/rtp/239.61.3.10:9578
 旅游卫视,http://113.64.145.157:8081/hls/100/index.m3u8
 旅游卫视,http://113.64.145.195:8081/hls/100/index.m3u8
 兵团卫视,http://113.64.145.157:8081/hls/102/index.m3u8
 兵团卫视,http://113.64.145.195:8081/hls/102/index.m3u8
-
+兵团卫视,http://120.41.125.248:8888/rtp/239.61.2.228:9356
+大湾区卫视,http://120.41.125.248:8888/rtp/239.61.3.5:9548
 🎯湖北频道,#genre#
 湖北电视台,http://220.249.114.102:9901/tsfile/live/1008_1.m3u8
 湖北公共,http://27.19.159.183:4022/rtp/239.69.1.40:9880
