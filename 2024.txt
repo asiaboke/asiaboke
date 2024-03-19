@@ -263,7 +263,7 @@ CAN亚洲,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
 CNB亚太,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
 CCtv英语,http://180.167.104.105:9901/tsfile/live/1037_1.m3u8
 
-💢央视👉春盈,#genre#
+🌺央视👉春盈,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -285,7 +285,7 @@ CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 郑铁有线频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
-💢央视👉IPV6,#genre#
+🌺央视👉IPV6,#genre#
 CCTV-01,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-02,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV-03,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
@@ -327,7 +327,7 @@ CCTV-17 农业,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/8
 CCTV-4K超清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-8K超清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
-💢央视👉电视家,#genre#
+🌺央视👉电视家,#genre#
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
@@ -374,7 +374,7 @@ CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 
-💢央视V6👉电视家,#genre#
+🌺央视V6👉电视家,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -529,7 +529,7 @@ CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/i
 CGTN,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1759364445_-231454179/ott.mobaibox.com/PLTV/3/224/3221228095/index.m3u8?icpid=3&RTS=1674386169&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CGTN,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw339749067_1329413079/ott.mobaibox.com/PLTV/3/224/3221225917/index.m3u8?icpid=3&RTS=1674380455&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-💢央视👉多多,#genre#
+🌺央视👉多多,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -678,7 +678,7 @@ CCTV15,http://125.210.152.21:9121/live/hzgq-cctvmusicgq-h264.m3u8
 CCTV16,http://125.210.152.21:9121/live/hzgq-cctv16gq-h264.m3u8
 CCTV17,http://125.210.152.21:9121/live/hzgq-cctv17gq-h264.m3u8
 CGTN,http://125.210.152.21:9121/live/hszx-cctvgj-h264.m3u8 
-💢卫视👉多多,#genre#
+🌺卫视👉多多,#genre#
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
@@ -779,7 +779,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-💢卫视频道👉天下,#genre#
+🌺卫视频道👉天下,#genre#
 浙江公共,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1012,7 +1012,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 新疆卫视,http://219.147.200.9:18080/newlive/live/hls/56/live.m3u8
 西藏卫视,http://219.147.200.9:18080/newlive/live/hls/57/live.m3u8
 行唐综合,http://27.128.190.231:18080/sdi
-💢卫视频道👉小凯,#genre#
+🌺卫视👉小凯,#genre#
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8$可回放
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8$可回放
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1205,7 +1205,7 @@ yMG新闻,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 
-💢IHOT频道👉网友,#genre#
+🌺IHOT频道👉网友,#genre#
 IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 IHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 IHOT爱谍战,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
@@ -1227,7 +1227,7 @@ IHOT爱喜剧,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 IHOT爱悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
 IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-🌺东北👉黑龙江,#genre#
+☘️东北👉黑龙江,#genre#
 
 黑龙江｜少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8 
 黑龙江｜少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8 
@@ -1347,7 +1347,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 黑龙江｜哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 黑龙江｜哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 
-🌺东北👉吉林,#genre#
+☘️东北👉吉林,#genre#
 吉林｜东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 吉林｜敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 吉林｜桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
@@ -1435,7 +1435,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 吉林｜汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
-🌺东北👉辽宁,#genre#
+☘️东北👉辽宁,#genre#
 辽宁｜经济,http://218.25.44.2:8899/hls/39/index.m3u8 
 辽宁｜公共,http://218.25.44.2:8899/hls/40/index.m3u8 
 辽宁｜都市,http://218.25.44.2:8899/hls/47/index.m3u8 
@@ -1451,7 +1451,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 辽宁｜沈阳新闻综合,http://218.25.44.2:8899/hls/20/index.m3u8 
 辽宁｜丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh 
 
-🌺华北👉北京,#genre#
+☘️华北👉北京,#genre#
 
 北京｜新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276 
 北京｜文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045 
@@ -1475,7 +1475,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 北京｜纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 北京｜石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 北京｜房山无线,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
-🌺华北👉河北,#genre#
+☘️华北👉河北,#genre#
 
 河北｜生活,http://cu4.iblink.cn:8000/udp/239.253.92.171:6001 
 河北｜都市,http://cu4.iblink.cn:8000/udp/239.253.92.172:6002 
@@ -1537,7 +1537,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 河北｜邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
 河北｜邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 河北｜鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-🌺华北👉内蒙古,#genre#
+☘️华北👉内蒙古,#genre#
 
 内蒙古｜农牧,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg 
 内蒙古｜新闻,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg 
@@ -1559,7 +1559,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 内蒙古｜玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 内蒙古｜兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
 
-🌺华北👉山西,#genre#
+☘️华北👉山西,#genre#
 
 山西｜经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true 
 山西｜社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true 
@@ -1620,7 +1620,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 山西｜高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 山西｜怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 山西｜五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
-🌺华北👉天津,#genre#
+☘️华北👉天津,#genre#
 
 天津｜新闻,http://lovers.asuscomm.com:5000/udp/225.1.1.130:5002 
 天津｜滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8 
@@ -1636,7 +1636,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 天津｜滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 天津｜西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 
-🌺华东👉上海,#genre#
+☘️华东👉上海,#genre#
 
 上海｜东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8 
 上海｜东方影视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8? 
@@ -1733,7 +1733,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 上海｜崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 上海｜嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 
-🌺华东👉浙江,#genre#
+☘️华东👉浙江,#genre#
 
 
 浙江｜钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8 
@@ -2006,7 +2006,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
-🌺华东👉山东,#genre#
+☘️华东👉山东,#genre#
 
 山东｜齐鲁,http://58.57.155.42:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0 
 山东｜文旅,http://58.57.155.42:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0 
@@ -2294,9 +2294,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 山东｜鱼台,http://alivealone.litenews.cn/63/513ae5b367f24751a14e36db65237035.flv
 山东｜黄岛综合,http://alivealone.litenews.cn/227/679fcc2c9e6040e9bf2e9b8f0b5d6e91.flv
 
-
-
-🌺华东👉安徽,#genre#
+☘️华东👉安徽,#genre#
  
 安徽｜公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8 
 安徽｜国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8 
@@ -2383,7 +2381,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 安徽｜肥西新闻,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
 安徽｜肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 安徽｜肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
-🌺华东👉江西,#genre#
+☘️华东👉江西,#genre#
 
 江西｜都市,http://113.195.172.192:808/hls/2/index.m3u8 
 江西｜都市,http://59.52.130.24:9901/tsfile/live/65448_1.m3u8?key=txiptv&playlive=1&authid=0 
@@ -2410,8 +2408,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 江西｜德州经济,http://alivealone.litenews.cn/179/185d5575759a47b4a687d0cd26999399.flv 
 江西｜德州经济,http://alivealone.litenews.cn/179/889af08ba99f4f29a3f50b21a75a1670.flv 
 
-🌺华东👉江苏,#genre#
- 
+☘️华东👉江苏,#genre# 
 
 江苏｜公共新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230691/1.m3u8 
 江苏｜南京信息,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8 
@@ -2676,7 +2673,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 江苏｜宿迁公共,http://180.109.151.163:4022/rtp/239.49.1.123:6000
 江苏｜响水综合,http://180.109.151.163:4022/rtp/239.49.1.141:6000
 江苏｜高淳综合,http://180.109.151.163:4022/rtp/239.49.1.142:6000
-🌺华东👉福建,#genre#
+☘️华东👉福建,#genre#
 福建｜三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8 
 福建｜三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8 
 福建｜云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8 
@@ -2714,7 +2711,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 福建｜石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 福建｜霞浦公共,http://218.106.152.196/lsdream/f2Hfjtd/5000/live.m3u8
 福建｜霞浦综合,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
-🌺华中👉河南,#genre#
+☘️华中👉河南,#genre#
 河南｜都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8 
 河南｜民生,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8 
 河南｜电视剧,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8 
@@ -2872,7 +2869,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 河南｜鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 河南｜项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 河南｜鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
-🌺华中👉湖北,#genre#
+☘️华中👉湖北,#genre#
 湖北｜公共,http://59.175.44.234:4000/rtp/239.69.1.40:9880
 湖北｜公共,http://27.17.149.254:3520/rtp/239.69.1.40:9880
 湖北｜公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8
@@ -2952,7 +2949,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 湖北｜三峡旅游,https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-3232283b7b347bb21b712ea8398761d1
 湖北｜崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 湖北｜麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-🌺华中👉湖南,#genre#
+☘️华中👉湖南,#genre#
 湖南｜金鹰卡通,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8 
 湖南｜金鹰卡通,http://117.82.48.20:58888/rtp/239.49.9.23:6000
 湖南｜金鹰卡通,http://180.109.151.163:4022/rtp/239.49.9.23:6000
@@ -3037,7 +3034,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 湖南｜桂东,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 湖南｜桂阳,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 湖南｜浏阳新闻,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
-🌺华南👉广东,#genre#
+☘️华南👉广东,#genre#
 广东｜珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
 广东｜珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj 
 广东｜民生,http://php.jdshipin.com:8880/chudian.php?id=gdms 
@@ -3167,7 +3164,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 广东｜深圳电视剧,http://113.64.145.157:8081/hls/69/index.m3u8
 广东｜深圳电视剧,http://113.64.145.195:8081/hls/69/index.m3u8
 广东｜南方卫视,http://113.64.145.157:8081/hls/80/index.m3u8
-🌺华南👉广西,#genre#
+☘️华南👉广西,#genre#
 
 广西｜影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8 
 广西｜影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8 
@@ -3214,7 +3211,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 广西｜贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
 广西｜贺州,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 广西｜罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
-🌺华南👉海南,#genre#
+☘️华南👉海南,#genre#
 
 海南｜公共,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000382/1.m3u8 
 海南｜公共,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS 
@@ -3255,7 +3252,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 海南｜自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS 
 海南｜卫视,http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001183/index.m3u8?
 
-🌺西南👉贵州,#genre#
+☘️西南👉贵州,#genre#
 
 贵州｜贵州2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls 
 贵州｜贵州3,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls 
@@ -3268,7 +3265,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 贵州｜松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8 
 松新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
 
-❤️西南👉四川,#genre#
+☘️西南👉四川,#genre#
 
 四川｜乡村,http://api2.52tb.xyz/info?id=606&token=20230405tndmhg 
 四川｜影视,http://api2.52tb.xyz/info?id=601&token=20230405tndmhg 
@@ -3468,8 +3465,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 四川｜马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 四川｜黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 
-
-🌺西南👉云南,#genre#
+☘️西南👉云南,#genre#
 
 云南｜都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8 
 云南｜都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8 
@@ -3511,7 +3507,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 云南｜巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 云南｜良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
 云南｜新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
-🌺西南👉重庆,#genre#
+☘️西南👉重庆,#genre#
 
 重庆｜科教,http://183.66.66.199:2345/udp/235.254.199.188:7980 
 重庆｜新闻,http://183.65.9.200:8888/udp/235.254.196.199:7980 
@@ -3530,8 +3526,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 重庆｜荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 重庆｜北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 重庆｜江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-
-🌺西北👉甘肃,#genre#
+☘️西北👉甘肃,#genre#
 甘肃｜都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8 
 甘肃｜经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8 
 甘肃｜文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8 
@@ -3557,8 +3552,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 甘肃｜兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
 甘肃｜兰州文旅频道,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
 甘肃｜崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
-
-🌺西北👉宁夏,#genre#
+☘️西北👉宁夏,#genre#
 
 宁夏｜公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.flv 
 宁夏｜经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.flv 
@@ -3592,8 +3586,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 宁夏｜青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8 
 宁夏｜青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577 
 
-
-❤️西北👉青海,#genre#
+☘️西北👉青海,#genre#
 
 青海｜综合,http://lmt.scqstv.com/live1/live1.m3u8 
 青海｜经视,http://stream.qhbtv.com/qhsh/playlist.m3u8 
@@ -3616,7 +3609,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 青海｜兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8 
 青海｜化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8 
 
-🌺西北👉陕西,#genre#
+☘️西北👉陕西,#genre#
 
 陕西｜新闻,http://nas.lxn.cool:4022/udp/239.111.205.28:5140 
 陕西｜宝鸡一套,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8 
@@ -3671,7 +3664,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 陕西｜子洲,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227104/index.m3u8 
 陕西｜韩城,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227107/index.m3u8 
 
-🌺西北👉新疆,#genre#
+☘️西北👉新疆,#genre#
 新疆｜伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8 
 新疆｜伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd 
 新疆｜伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8 
@@ -3704,7 +3697,7 @@ http://58.49.150.227:9901rtsp://111.48.34.138:1554/170000004112/9918000100000006
 新疆｜裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd 
 新疆｜裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8?zxinjd 
 
-☘️精品分享👉欧歌,#genre#
+🍀精品分享👉欧歌,#genre#
 黑莓电竞,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8 
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8 
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8 
@@ -3810,8 +3803,7 @@ CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtual
 CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-☘️精品直播👉初秋语,#genre#
+🍀精品直播👉初秋语,#genre#
 求索纪录,http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
 黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
 黑莓动画,http://39.134.66.110/PLTV/88888888/224/3221225529/index.m3u8
@@ -3859,7 +3851,7 @@ CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m
 精品3,http://39.135.133.156/PLTV/88888888/224/3221225715/index.m3u8
 精品4,http://39.135.133.157/PLTV/88888888/224/3221225897/index.m3u8
 
-☘️NewTV👉欧歌,#genre#
+🍀NewTV👉欧歌,#genre#
 NewTV超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8 
 NewTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8 
 NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8 
@@ -3965,8 +3957,7 @@ NewTV怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 NewTV中国功夫,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-
-☘️电影频道👉万达在线,#genre#
+🍀电影频道👉万达在线,#genre#
 
 成龍,http://mmitv.top/pltv/yy.php?id=1354888751
 成龍,http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
@@ -4029,7 +4020,7 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
-☘️轮播👉星驰,#genre#
+🍀轮播👉星驰,#genre#
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
@@ -4067,10 +4058,7 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 济公,https://hnzy.bfvvs.com/play/DbDZxyel/index.m3u8
 师兄撞鬼,https://ukzy.ukubf4.com/20220407/VEDHd72z/index.m3u8
 
-
-
-
-☘️斗鱼👉高天流云,#genre#
+🍀斗鱼👉高天流云,#genre#
 
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -4375,7 +4363,7 @@ yy电影10,http://mmitv.top/pltv/yy.php?id=24066336
 斗鱼旅行17,http://43.138.170.29:35455/douyu/4834417
 斗鱼旅行18,http://43.138.170.29:35455/douyu/2240445
 
-☘️YY👉高天流云,#genre#
+🍀YY👉高天流云,#genre#
 好久不见-武林外传,http://43.138.170.29:35455/yy/1355914397
 封神榜,http://43.138.170.29:35455/yy/1353426319
 【战狼3吴京】首播,http://43.138.170.29:35455/yy/1456668939
