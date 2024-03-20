@@ -1,3 +1,160 @@
+🎯卫视测试,#genre#
+北京卫视,http://222.89.107.42:9876/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,1.108 MB/s
+北京卫视,http://222.92.7.170:3333/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.411 MB/s
+北京卫视,http://219.145.93.74:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0,0.373 MB/s
+北京卫视,http://222.92.7.170:3334/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.355 MB/s
+北京卫视,http://111.225.113.218:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0,0.323 MB/s
+北京卫视,http://123.183.24.146:6666/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.323 MB/s
+北京卫视,http://58.210.23.42:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.319 MB/s
+北京卫视,http://116.233.232.229:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+北京卫视,http://123.138.216.44:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+北京卫视,http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+北京卫视,http://144.52.162.231:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+
+
+
+吉林卫视,http://222.89.107.42:9876/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0,1.108 MB/s
+天津卫视,http://123.160.175.103:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,1.163 MB/s
+天津卫视,http://183.63.15.42:9901/tsfile/live/37349_1.m3u8?key=txiptv&playlive=1&authid=0,0.583 MB/s
+天津卫视,http://116.233.232.229:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.583 MB/s
+天津卫视,http://58.210.23.42:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.348 MB/s
+天津卫视,http://58.210.60.226:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+天津卫视,http://123.132.234.158:8154/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+天津卫视,http://223.159.11.251:8099/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+
+宁夏卫视,http://112.6.117.141:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.835 MB/s
+宁夏卫视,http://123.132.234.158:8154/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+宁夏卫视,http://144.52.162.231:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+安徽卫视,http://116.233.232.229:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.428 MB/s
+安徽卫视,http://58.210.23.42:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.394 MB/s
+安徽卫视,http://42.49.189.17:9008/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.331 MB/s
+安徽卫视,http://219.145.93.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+安徽卫视,http://123.132.234.158:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+安徽卫视,http://175.0.50.196:8899/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+山东卫视,http://219.145.93.74:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东卫视,http://221.226.4.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0,1.435 MB/s
+山东卫视,http://123.160.175.103:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,1.160 MB/s
+山东卫视,http://222.92.7.170:3333/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.795 MB/s
+山东卫视,http://222.71.189.186:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.583 MB/s
+山东卫视,http://183.63.15.42:9901/tsfile/live/37350_1.m3u8?key=txiptv&playlive=1&authid=0,0.497 MB/s
+山东卫视,http://58.210.23.42:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.332 MB/s
+山东卫视,http://144.52.162.231:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+山西卫视,http://222.92.7.170:3334/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.283 MB/s
+山西卫视,http://113.140.69.126:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+山西卫视,http://222.92.7.170:3333/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山西卫视,http://123.132.234.158:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山西卫视,http://144.52.162.231:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+
+广东卫视,http://219.137.29.141:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,1.503 MB/s
+广东卫视,http://123.160.175.103:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,1.250 MB/s
+广东卫视,http://58.210.23.42:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,0.441 MB/s
+广东卫视,http://219.145.93.74:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.397 MB/s
+广东卫视,http://123.138.216.44:9902/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广东卫视,http://222.89.107.42:9876/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+广西卫视,http://222.89.107.42:9876/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,1.160 MB/s
+广西卫视,http://123.132.234.158:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广西卫视,http://123.160.175.103:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+广西卫视,http://123.52.43.144:8888/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+新疆卫视,http://222.92.7.170:3334/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,0.344 MB/s
+新疆卫视,http://222.92.7.170:3333/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0,0.287 MB/s
+新疆卫视,http://123.183.24.146:6666/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0,0.243 MB/s
+新疆卫视,http://116.233.232.229:7777/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+新疆卫视,http://222.89.107.42:9876/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+江苏卫视,http://219.137.29.141:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,1.446 MB/s
+江苏卫视,http://221.226.4.10:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,1.435 MB/s
+江苏卫视,http://116.233.232.229:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.446 MB/s
+江苏卫视,http://58.210.23.42:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.348 MB/s
+江苏卫视,http://222.71.189.186:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+江苏卫视,http://123.138.216.44:9902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+江苏卫视,http://58.210.60.226:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+江西卫视,http://183.63.15.42:9901/tsfile/live/37351_1.m3u8?key=txiptv&playlive=1&authid=0,0.435 MB/s
+江西卫视,http://116.233.232.229:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.353 MB/s
+江西卫视,http://123.160.175.103:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,1.378 MB/s
+江西卫视,http://115.171.86.183:9901/tsfile/live/16055_1.m3u8?key=txiptv&playlive=1&authid=0,0.497 MB/s
+
+
+浙江卫视,http://219.145.93.74:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.349 MB/s
+浙江卫视,http://116.233.232.229:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,0.296 MB/s
+浙江卫视,http://123.138.216.44:9902/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+浙江卫视,http://144.52.162.231:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+海南卫视,http://221.226.4.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0,1.435 MB/s
+海南卫视,http://116.233.232.229:7777/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+海南卫视,http://222.71.189.186:9901/tsfile/live/0114_6.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+海南卫视,http://123.132.234.158:8154/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+深圳卫视,http://221.226.4.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0,1.364 MB/s
+深圳卫视,http://222.71.189.186:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+深圳卫视,http://219.145.93.74:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+深圳卫视,http://123.132.234.158:8154/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+湖北卫视,http://221.226.4.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0,0.719 MB/s
+湖北卫视,http://115.171.86.183:9901/tsfile/live/16048_1.m3u8?key=txiptv&playlive=1&authid=0,0.351 MB/s
+湖北卫视,http://183.63.15.42:9901/tsfile/live/37353_1.m3u8?key=txiptv&playlive=1&authid=0,0.296 MB/s
+湖北卫视,http://116.233.232.229:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖北卫视,http://144.52.162.231:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+
+湖南卫视,http://219.137.29.141:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,1.532 MB/s
+湖南卫视,http://123.52.43.144:8888/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,1.108 MB/s
+湖南卫视,http://222.92.7.170:3333/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.784 MB/s
+湖南卫视,http://58.210.23.42:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.377 MB/s
+湖南卫视,http://222.92.7.170:3334/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.348 MB/s
+湖南卫视,http://123.132.234.158:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+甘肃卫视,http://123.52.43.144:8888/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0,1.191 MB/s
+甘肃卫视,http://116.233.232.229:7777/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+西藏卫视,http://222.92.7.170:3333/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0,0.421 MB/s
+西藏卫视,http://219.145.93.74:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0,0.397 MB/s
+西藏卫视,http://222.92.7.170:3334/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.380 MB/s
+西藏卫视,http://58.210.60.226:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0,0.319 MB/s
+西藏卫视,http://111.74.155.231:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0,0.001 MB/s
+西藏卫视,http://123.132.234.158:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+西藏卫视,http://144.52.162.231:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+西藏卫视,http://222.89.107.42:9876/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+贵州卫视,http://116.233.232.229:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.296 MB/s
+贵州卫视,http://115.171.86.183:9901/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0,0.160 MB/s
+贵州卫视,http://123.138.216.44:9902/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+贵州卫视,http://219.145.93.74:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+贵州卫视,http://222.89.107.42:9876/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+贵州卫视,http://123.52.43.144:8888/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+辽宁卫视,http://123.160.175.103:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,1.108 MB/s
+辽宁卫视,http://116.233.232.229:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,0.435 MB/s
+辽宁卫视,http://183.63.15.42:9901/tsfile/live/37354_1.m3u8?key=txiptv&playlive=1&authid=0,0.355 MB/s
+辽宁卫视,http://222.71.189.186:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0,0.353 MB/s
+辽宁卫视,http://58.210.23.42:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,0.343 MB/s
+
+重庆卫视,http://58.210.23.42:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,0.377 MB/s
+重庆卫视,http://219.145.93.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.349 MB/s
+
+陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+陕西卫视,http://219.145.93.74:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+
+青海卫视,http://123.160.175.103:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0,1.229 MB/s
+
+黑龙江卫视,http://123.52.43.144:8888/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,1.108 MB/s
+黑龙江卫视,http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,0.372 MB/s
+黑龙江卫视,http://116.233.232.229:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+黑龙江卫视,http://219.145.93.74:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+黑龙江卫视,http://221.226.4.10:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+北京纪实,http://111.225.112.65:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0,0.389 MB/s
+卡酷动画,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0,1.229 MB/s
+卡酷动画,http://144.52.162.231:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+卡酷动画,,http://116.233.232.229:7777/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0,0.446 MB/s
+CHC动作电影,http://118.253.0.237:2023/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0,0.356 MB/s
+
 🎯测试频道1,#genre#
 1,http://113.66.6.16:4433/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 2,http://113.66.6.16:4433/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
